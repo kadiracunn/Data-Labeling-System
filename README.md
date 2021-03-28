@@ -8,8 +8,8 @@ ___
 ___  
 > This project is a group project of 6 people.  
 > Collaborators:  
-> Erhan Yalnız  
-> Kadir Acun ([Profile](https://github.com/kadiracunn))  
+> Kadir Acun  
+> Erhan Yalnız ([Profile](https://github.com/erhanyalniz))  
 > Gökberk Çelikmasat ([Profile](https://github.com/gcelikmasat))  
 > Şeref Kuray Akgün ([Profile](https://github.com/kutayakgn))  
 > Zeynep Ferah Akkurt ([Profile](https://github.com/zefea))  
