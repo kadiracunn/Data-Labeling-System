@@ -7,9 +7,9 @@ ___
 [Sequence Diagram](https://github.com/erhanyalniz/Data-Labeling-System/blob/4d9a9a25de1025d9bedad67504cc01ac0005318a/Sequence%20Diagram.pdf)  
 ___  
 > This project is a group project of 6 people.  
-> Collaborators:  
-> Erhan Yalnız  
-> Kadir Acun ([Profile](https://github.com/kadiracunn))  
+> Collaborators:
+> Kadir Acun    
+> Erhan Yalnız ([Profile](https://github.com/erhanyalniz)) 
 > Gökberk Çelikmasat ([Profile](https://github.com/gcelikmasat))  
 > Şeref Kuray Akgün ([Profile](https://github.com/kutayakgn))  
 > Zeynep Ferah Akkurt ([Profile](https://github.com/zefea))  
